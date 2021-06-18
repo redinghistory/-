@@ -1,3 +1,3 @@
 # -
-数据结构代码实现
-用c++实现严蔚敏数据结构代码，采用类c的编码风格
+Data structure code implementation
+Using C ++ to achieve Yan Weimin data structure, using the class C coding style
